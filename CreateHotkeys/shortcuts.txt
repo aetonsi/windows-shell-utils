@@ -1,0 +1,2 @@
+C:\Program Files\PowerShell\6\pwsh.exe/T
+c:\windows\system32\cmd.exe/CTRL+ALT+SHIFT+T/cmd.exe
